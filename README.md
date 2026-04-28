@@ -15,3 +15,4 @@ Wazuh Detection → Python Script → TheHive Alert → Analyst Triage → Case
 
 ## Author
 Marty Dickerson | github.com/MartyDickerson
+wooooo
